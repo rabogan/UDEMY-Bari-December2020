@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Lecture170DemoConstructors\Debug\Lecture170DemoConstructors.exe
+C:\Users\patri\Desktop\Udemy C++\Lecture170DemoConstructors\Debug\Lecture170DemoConstructors.pdb

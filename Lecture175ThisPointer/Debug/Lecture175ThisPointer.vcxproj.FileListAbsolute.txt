@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Lecture175ThisPointer\Debug\Lecture175ThisPointer.exe
+C:\Users\patri\Desktop\Udemy C++\Lecture175ThisPointer\Debug\Lecture175ThisPointer.pdb

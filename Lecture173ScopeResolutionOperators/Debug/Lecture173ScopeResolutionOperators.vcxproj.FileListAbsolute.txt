@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Lecture173ScopeResolutionOperators\Debug\Lecture173ScopeResolutionOperators.exe
+C:\Users\patri\Desktop\Udemy C++\Lecture173ScopeResolutionOperators\Debug\Lecture173ScopeResolutionOperators.pdb
