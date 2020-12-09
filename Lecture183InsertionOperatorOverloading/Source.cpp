@@ -1,0 +1,37 @@
+#include "Header.h"
+
+class Complex
+{
+private:
+	int real;
+	int img;
+
+public:
+	Complex(int r = 0, int i = 0)
+	{
+		real = r;
+		img = i;
+	}
+
+	void display()
+	{
+		cout << real << "+i" << img << endl;
+	}
+	friend ostream& operator<<(ostream& out, Complex& c1);
+};
+
+//This function overloads the operator
+ostream& operator<<(ostream& out, Complex& c1)
+{
+	out << c1.real << "+i" << c1.img << endl;
+	return out;
+}
+
+int main()
+{
+	Complex c1(3, 7);
+	cout << c1 << endl;
+	c1.display();
+	operator<<(cout, c1);
+
+}

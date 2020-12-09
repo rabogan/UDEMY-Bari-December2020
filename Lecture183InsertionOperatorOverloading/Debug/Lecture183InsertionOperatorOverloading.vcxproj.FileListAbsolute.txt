@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Lecture183InsertionOperatorOverloading\Debug\Lecture183InsertionOperatorOverloading.exe
+C:\Users\patri\Desktop\Udemy C++\Lecture183InsertionOperatorOverloading\Debug\Lecture183InsertionOperatorOverloading.pdb

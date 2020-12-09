@@ -1,0 +1,2 @@
+C:\Users\patri\Desktop\Udemy C++\Exercise184StudentExercise10\Debug\Exercise184StudentExercise10.exe
+C:\Users\patri\Desktop\Udemy C++\Exercise184StudentExercise10\Debug\Exercise184StudentExercise10.pdb
